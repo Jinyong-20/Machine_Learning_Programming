@@ -2,8 +2,8 @@ Machine Learning Programming Assignment
 =======================================
 __Excercise 1__
 ------------
-#* Profile
+* Profile
 
-##+ ID : 20191167
+  + ID : 20191167
 
-##+ Name : 최진용(Choi Jinyong)
+  + Name : 최진용(Choi Jinyong)
